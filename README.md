@@ -52,12 +52,15 @@ password: root
 
 ## 📁 Project Structure
 
-**InventoryManagementSystem/**
+```
+InventoryManagementSystem/
 │
-├── src/                # Java Source Code
-├── lib/                # External Libraries
-├── SQL/                # Database Schema
-└── screenshots/        # (Optional UI Screens)
+├── **src/**                # Java Source Code
+├── **lib/**                # External Libraries
+├── **SQL/**                # Database Schema
+└── **screenshots/**        # (Optional UI Screens)
+```
+
 
 ## 5 🤝 Contribution
 
