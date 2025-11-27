@@ -38,7 +38,7 @@ git clone https://github.com/AshutoshSingh1s/InventoryManagementSystem.git
 - **Import will create:**
   - **Database**
   - **Tables**
-  - 
+    
 ## 3️⃣ Configure Database Connection
 
 username: root
